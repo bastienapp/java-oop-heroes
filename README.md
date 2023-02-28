@@ -2,7 +2,7 @@
 
 ## Partie 1 : Héros
 
-La classe `Hero` permet de créer des objets possédant les propriétés suivantes :
+La classe `Hero` permet de créer des objets possédant les propriétés (attributs) suivantes :
 
 - String name
 - int power
